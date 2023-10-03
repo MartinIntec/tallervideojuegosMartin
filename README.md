@@ -14,7 +14,7 @@ En este taller se propone una introducción al diseño de videojuegos y a la pro
 
 Para poder llevar adelante nuestro taller, haremos uso de múltiples herramientas que listamos a continuación:
 + [GitHub](https://github.com/): Una plataforma para alojar nuestros proyectos y trabajar de forma colaborativa con otros programadores. **Requisito crearse una cuenta**
-+ [Google Colab](https://colab.research.google.com/drive/1lgpWaTHCDkROzLgaL8c4kXS2dAkpxx4o?usp=drive_link): Una plataforma que nos permitirá introducirnos al mundo de Python ejecutando código directamente desde el navegador sin necesidad de descargar entornos de programación específicos. 
++ [Google Colab](https://colab.research.google.com/drive/1D40Dv4HyaZIHxj4kKqnhPLD8LP4f2RDE#scrollTo=pRAYol7gySdK): Una plataforma que nos permitirá introducirnos al mundo de Python ejecutando código directamente desde el navegador sin necesidad de descargar entornos de programación específicos. 
 + [PyGameZero](https://pygame-zero.readthedocs.io/en/stable/): La librería que usaremos para construir nuestro videojuego en Python, basada en PyGame.
 + Un editor de código como el [IDLE](https://docs.python.org/es/3/library/idle.html) preinstalado en el sistema operativo de la Raspberry o [MU](https://codewith.mu/en/about) el cuál debe ser instalado. 
 + [GPIO Zero](https://gpiozero.readthedocs.io/en/stable/): La librería que utilizaremos para interactuar con los pines de nuestra Raspberry y conectar los componentes electrónicos necesarios para construir un joystick para nuestro juego.
