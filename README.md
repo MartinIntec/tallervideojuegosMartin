@@ -6,6 +6,10 @@
 
 # Taller de Videojuegos con Python y Raspberry Pi
 
+## Introducción a la programación mediante código en la Raspberry Pi
+
+![GIF Animado](https://github.com/FormacionIntec/TallerVideojuegos/blob/717a8cad9336d72741389a9995128f872bdfe8d6/mygif.gif)
+
 En este taller se propone una introducción al diseño de videojuegos y a la programación con Python desde una Raspberry Pi. El mismo se complementa con los talleres de [Narrativas no Lineales](https://docs.google.com/presentation/d/1gBIHfYmq7jOo9Yg4-tv1tXL-XLvuvCOaUr7McVtxBJ0/edit?usp=sharing) y el de [Exploración de la placa Raspberry Pi](https://docs.google.com/presentation/d/1HZ0GHMZ_pe09u6gWEd8VEuLeG-s0_oNr-_CQm0VxHXk/edit?usp=drive_link). 
 
 Para poder llevar adelante nuestro taller, haremos uso de múltiples herramientas que listamos a continuación:
@@ -13,4 +17,13 @@ Para poder llevar adelante nuestro taller, haremos uso de múltiples herramienta
 + [Google Colab](https://colab.research.google.com/drive/1lgpWaTHCDkROzLgaL8c4kXS2dAkpxx4o?usp=drive_link): Una plataforma que nos permitirá introducirnos al mundo de Python ejecutando código directamente desde el navegador sin necesidad de descargar entornos de programación específicos. 
 + [PyGameZero](https://pygame-zero.readthedocs.io/en/stable/): La librería que usaremos para construir nuestro videojuego en Python, basada en PyGame.
 + Un editor de código como el [IDLE](https://docs.python.org/es/3/library/idle.html) preinstalado en el sistema operativo de la Raspberry o [MU](https://codewith.mu/en/about) el cuál debe ser instalado. 
-+ [GPIO Zero](https://gpiozero.readthedocs.io/en/stable/): La librería que utilizaremos para interactuar con los pines de nuestra Raspberry y conectar los componentes electrónicos necesarios para construir un joystick para nuestro juego. 
++ [GPIO Zero](https://gpiozero.readthedocs.io/en/stable/): La librería que utilizaremos para interactuar con los pines de nuestra Raspberry y conectar los componentes electrónicos necesarios para construir un joystick para nuestro juego.
+
+## Syllabus
+
+| Tema         | Descripción              |
+|--------------|--------------------------|
+| Intro a Python | [![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D40Dv4HyaZIHxj4kKqnhPLD8LP4f2RDE#scrollTo=pRAYol7gySdK) |
+| Instalación  | Instrucciones para la instalación.          |
+| Uso          | Cómo utilizar el proyecto.                  |
+| Contribución | Guía para contribuir al proyecto.            |
